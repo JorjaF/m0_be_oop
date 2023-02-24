@@ -113,4 +113,7 @@ p h2
 h3=Hobbit.new("Mark", "jolly" ,100)
 h3.celebrate_birthday
 p h3
-
+h4=Hobbit.new("Frodo", "depressed",102)
+p h4
+h4.celebrate_birthday
+p h4
